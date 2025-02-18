@@ -16,6 +16,24 @@
       "message": "This part had conflicts compared to the original patch",
       "revId": "d4a8aae741132a43f57d1e67fec9930995fa94af",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "45c87e86_bdf57d9d",
+        "filename": "keystore2/src/globals.rs",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2025-02-18T20:44:00Z",
+      "side": 1,
+      "message": "It should match https://android-review.googlesource.com/c/platform/system/security/+/3450430 resolution",
+      "parentUuid": "61a54d29_4628cb9d",
+      "revId": "d4a8aae741132a43f57d1e67fec9930995fa94af",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
